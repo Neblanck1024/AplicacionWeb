@@ -58,6 +58,15 @@ h1{
 	border: 3px double darkred;
 }
 
+.ofertas{
+	text-align: center;
+	width: 50%;
+	height: 50%;
+	display: block;
+	margin: auto;
+	border: 3px double darkred;
+}
+
 footer{
 	margin: 50px;
 	text-align: center;
